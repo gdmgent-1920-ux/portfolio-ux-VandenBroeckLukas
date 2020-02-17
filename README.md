@@ -1,8 +1,8 @@
 # UX portfolio template 1920
 
-## Name:
+## Name: Lukas Van den Broeck
 
-## Group:
+## Group: 1AVDb
 
 ## Getting Started
 
